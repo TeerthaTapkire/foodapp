@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.dto.CustomerDto&apos; to &apos;Customer&apos;&#x0D;&#x0A;- Original project: &apos;foodSpringApp&apos;&#x0D;&#x0A;- Original element: &apos;com.dto.CustomerDto&apos;&#x0D;&#x0A;- Renamed element: &apos;com.dto.Customer&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;CustomerDto&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.dto{CustomerDto.java[CustomerDto" matchStrategy="1" name="Customer" qualified="false" references="true" similarDeclarations="false" stamp="1677161247250" textual="false" version="1.0"/>
+</session>
